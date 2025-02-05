@@ -458,20 +458,6 @@ We can be 95% confident that the true average satisfaction score for the entire 
 ---
 
 **Happy Optimizing!** 🚀
-
-## How to Use This Repository
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/social-media-engagement-analysis.git
-   ```
-2. Open the dataset and analysis file to explore the calculations and insights.
-3. Use the insights to optimize your social media strategy.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ---
 
 ## Contributing
