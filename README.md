@@ -207,24 +207,7 @@ Assume the dataset is from an e-commerce company's email campaigns.
 --- 
 
 **Happy Optimizing!** 🚀
-## Contact
-
-For any questions or feedback, feel free to reach out:  
-- **Email:** your-connectinglobe7@gmail.com  
-- **LinkedIn:** [Your LinkedIn Profile]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/swapnil-kakade-data-analyst/)) 
-- **Twitter:** [@YourTwitterHandle](@Awooh88)  
-
 ---
-
-## How to Use This Repository
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/social-media-engagement-analysis.git
-   ```
-2. Open the dataset and analysis file to explore the calculations and insights.
-3. Use the insights to optimize your social media strategy.
-
 ---
 # CPC (Cost Per Click) Analysis
 
@@ -476,6 +459,14 @@ We can be 95% confident that the true average satisfaction score for the entire 
 
 **Happy Optimizing!** 🚀
 
+## How to Use This Repository
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/social-media-engagement-analysis.git
+   ```
+2. Open the dataset and analysis file to explore the calculations and insights.
+3. Use the insights to optimize your social media strategy.
 
 ## License
 
@@ -486,3 +477,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or additional analyses.
+
+## Contact
+
+For any questions or feedback, feel free to reach out:  
+- **Email:** connectinglobe7@gmail.com  
+- **LinkedIn:** ([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/swapnil-kakade-data-analyst/)) 
+- **Twitter:** (@Awooh88)  
