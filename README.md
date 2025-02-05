@@ -468,5 +468,5 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 For any questions or feedback, feel free to reach out:  
 - **Email:** connectinglobe7@gmail.com  
-- **LinkedIn:** ([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/swapnil-kakade-data-analyst/)) 
+- **LinkedIn:** (https://www.linkedin.com/in/swapnil-kakade-data-analyst/)) 
 - **Twitter:** (@Awooh88)  
